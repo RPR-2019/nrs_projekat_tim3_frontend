@@ -34,7 +34,7 @@ body {
   color: red;
 }
 .card-img-top{
-  height: 100px;
+  height: 200px;
   object-fit: cover;
 
 }
